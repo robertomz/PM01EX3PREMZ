@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PM01EX3PREMZ</string>
+
+    <string-array name="tiempos">
+        <item>Diaria</item>
+        <item>Horas</item>
+    </string-array>
+</resources>
